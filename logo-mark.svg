@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="isingoLogoTitle">
+  <title id="isingoLogoTitle">Isingo Advocates for Humanity</title>
+  <rect width="64" height="64" fill="#10203a"/>
+  <rect x="0" y="58" width="64" height="6" fill="#c9a227"/>
+  <text x="32" y="40" text-anchor="middle" fill="#faf9f6" font-size="15" font-family="Georgia, serif" font-weight="700" letter-spacing="1">IAH</text>
+</svg>

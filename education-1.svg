@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Education and learning</title>
+  <desc id="desc">A graphic representing education, learning and rights awareness.</desc>
+  <defs>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#e8f1ef"/>
+      <stop offset="100%" stop-color="#187d7d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#0c2d3f"/>
+  <rect width="1200" height="800" fill="url(#g2)" opacity="0.8"/>
+  <rect x="180" y="160" width="260" height="360" rx="18" fill="#fff" opacity="0.88"/>
+  <rect x="490" y="120" width="520" height="180" rx="18" fill="#ffffff" opacity="0.86"/>
+  <rect x="500" y="340" width="470" height="120" rx="16" fill="#ffffff" opacity="0.82"/>
+  <circle cx="310" cy="220" r="70" fill="#f2c85b"/>
+  <text x="510" y="610" fill="#ffffff" font-family="Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="3">EDUCATION</text>
+</svg>

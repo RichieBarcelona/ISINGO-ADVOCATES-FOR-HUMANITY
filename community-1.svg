@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Humanitarian activities</title>
+  <desc id="desc">A community-centered graphic representing humanitarian activities and support in Uganda.</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#dfeff0"/>
+      <stop offset="100%" stop-color="#2a6780"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#10203a"/>
+  <rect x="0" y="0" width="1200" height="800" fill="url(#g1)" opacity="0.75"/>
+  <rect x="80" y="100" width="1040" height="600" rx="30" fill="rgba(255,255,255,0.09)" stroke="rgba(255,255,255,0.5)"/>
+  <circle cx="360" cy="310" r="120" fill="#f4c95d" opacity="0.9"/>
+  <rect x="500" y="230" width="320" height="180" rx="18" fill="#ffffff" opacity="0.9"/>
+  <rect x="560" y="285" width="200" height="20" rx="10" fill="#1a4c5c"/>
+  <rect x="560" y="325" width="170" height="18" rx="9" fill="#6ea5ab"/>
+  <text x="600" y="605" fill="#ffffff" font-family="Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="3">HUMANITARIAN</text>
+</svg>
